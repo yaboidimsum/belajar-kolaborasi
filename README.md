@@ -1,4 +1,7 @@
 # belajar-kolaborasi
 belajar kolaborasi Dicoding GIT
 
-Waduh di code review
+Dicoding seru!
+Kok hilang code reviewnya?
+udah fix ni
+
